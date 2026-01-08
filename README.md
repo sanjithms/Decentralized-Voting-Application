@@ -33,18 +33,33 @@ This application employs the **Ethereum Blockchain** and **Solidity Smart Contra
 
 ## 📸 Project Screenshots
 
+---
+
 ### 🏗️ System Architecture
 The architecture connects the React JS client and MetaMask wallet to the Solidity smart contracts via Ethers.js.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9ca38de-39f7-4a7c-90f0-306e7cbd9989" width="800" alt="System Architecture">
+</p>
 
+---
 
 ### 🗳️ Voting Interface
 The dashboard displays the connected MetaMask account address, the remaining time for the election, and the list of candidates.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91550f0f-2731-480e-8628-33d49ad32a58" width="600" alt="Voting Interface">
+</p>
 
+---
 
 ### 🏆 Election Results
 Once the voting period ends, the application calculates the winner and displays the final vote count for each candidate.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d916ec10-c20c-41d6-b615-f3fbd0034bda" width="600" alt="Election Results">
+</p>
+
 
 
 
