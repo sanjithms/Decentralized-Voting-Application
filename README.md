@@ -50,7 +50,4 @@ Once the voting period ends, the application calculates the winner and displays 
 
 ---
 
-## 🚀 Getting Started
 
-1. **Clone the Repo:** ```bash
-   git clone [https://github.com/syedmuhamaddanish/your-repo-name.git](https://github.com/syedmuhamaddanish/your-repo-name.git)
